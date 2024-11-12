@@ -1,0 +1,26 @@
+.box{
+    background-color: blue;
+    color: white;
+}
+.navbar{
+    background-color: rgb(181, 181, 252) !important;
+    color: white !important;
+}
+section.hero{
+    height: 95vh limportant;
+    position: relative limportant;
+    z-index: 1 limportant;
+}
+section.hero .carousal-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 7);
+}
+section.hero .carousal-caption{
+    height: 100%;
+    
+
+}
